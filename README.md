@@ -18,4 +18,4 @@ This is how i'll segment the project :
 This real life example will challenge everything I've learn so far. I eager to work around the layout as it's one of the thing I feel like needed work. The use of flexbox and container to setup the landing page will improve my understanding of the flow.
 
 ## Review
-Will be added progressively...
+Struggled with spacing and flex grow. Often I inverted the padding short property. Otherwise project is interesting. 
