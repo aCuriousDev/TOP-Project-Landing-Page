@@ -7,11 +7,11 @@ This aim at building an actual landing page with HTML5 and CSS3. The design refe
 ## Description and Goals
 The main goal is to replicate the design reference given but it's also possible to add some jazz to it by adding real images and changing colors.
 This is how i'll segment the project :
-- [ ] Setup the folders and files
-- [ ] Adding the basic boilerplate to html / css
-- [ ] Basic HTML element structure
-- [ ] Setting up the layout
-- [ ] Adding more styles
+- [X] Setup the folders and files
+- [X] Adding the basic boilerplate to html / css
+- [X] Basic HTML element structure
+- [X] Setting up the layout
+- [X] Adding more styles
 - [ ] Improvements, fixes and polish
 
 ## Learning Outcomes
