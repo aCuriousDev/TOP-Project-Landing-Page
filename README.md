@@ -1,4 +1,4 @@
-# TOP---Project-Landing-Page
+# Project : Landing Page
 The Odin Project Landing Page Project Assignement
 
 ## Introduction
